@@ -9,6 +9,6 @@ You can see more
  Programing skills:
   * Python / Keras / Tensorflow
   * Fortran
-  * C/C++
+  * C / C++
   * HTML / CSS / JS
  
